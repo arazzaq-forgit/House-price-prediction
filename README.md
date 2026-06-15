@@ -66,14 +66,6 @@ The following regression models were trained and compared:
 
 The **Random Forest Regressor** achieved the best performance and was selected for deployment.
 
----
-
-## 📸 Application Screenshot
-
-![Application Screenshot](images/app_screenshot.png)
-
----
-
 ## 📂 Project Structure
 
 ```
