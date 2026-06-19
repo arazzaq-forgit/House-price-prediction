@@ -7,6 +7,9 @@ This project predicts California house prices using Machine Learning algorithms.
 The objective is to build an end-to-end regression model capable of predicting house prices based on housing features.
 
 ---
+Demo
+<img width="1920" height="1080" alt="appscreenshot2" src="https://github.com/user-attachments/assets/b156a098-4ff3-4dc9-b1b6-e228418c7141" />
+<img width="1920" height="1080" alt="appscreenshot1" src="https://github.com/user-attachments/assets/01d56ec2-5277-40b5-b5d6-157e789ccf1c" />
 
 ## 🚀 Features
 
